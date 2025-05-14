@@ -15,7 +15,7 @@
   - Toth
   - Khan
   - Redlich–Peterson
-  - Agossou (2-parameter model)
+  - Customized model (2-parameter model)
 - Automatic calculation of model parameters.
 - Statistical evaluation: R², AIC, BIC.
 - Interactive plots and adjustable model views.
@@ -44,8 +44,8 @@ You can deploy this app using [Streamlit Cloud](https://streamlit.io/cloud) or a
 ## 👤 Developer
 
 **Gildas Fiacre Agossou**  
-Environmental Scientist & Developer  
-📧 agossougildas@gmail.com
+Environmental Scientist  
+📧 gildas.agossou950@gmail.com
 
 ---
 
